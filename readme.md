@@ -38,4 +38,5 @@ e.g.
 
 删除解析 `./alidns.py -d www`
 
-- [阿里云DNS解析API文档](
+- [阿里云DNS解析API文档](https://help.aliyun.com/document_detail/29739.html?spm=a2c4g.11186623.6.584.8Yriq8)
+
